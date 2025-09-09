@@ -1,0 +1,17 @@
+2025-09-09 06:45:20.859305 - Connected to SMTP server.
+2025-09-09 06:45:21.556077 - Started TLS .
+2025-09-09 06:45:22.468328 - Error: 'NoneType' object has no attribute 'encode'
+2025-09-09 06:45:22.734338 - Disconnected from SMTP server.
+2025-09-09 06:46:16.705114 - Connected to SMTP server.
+2025-09-09 06:46:17.311891 - Started TLS .
+2025-09-09 06:46:18.186977 - Error: 'NoneType' object has no attribute 'encode'
+2025-09-09 06:46:18.455116 - Disconnected from SMTP server.
+2025-09-09 06:47:48.077692 - Connected to SMTP server.
+2025-09-09 06:47:48.750366 - Started TLS .
+2025-09-09 06:47:49.687180 - Error: 'NoneType' object has no attribute 'encode'
+2025-09-09 06:47:49.952769 - Disconnected from SMTP server.
+2025-09-09 06:48:51.858590 - Connected to SMTP server.
+2025-09-09 06:48:52.510227 - Started TLS .
+2025-09-09 06:48:53.234373 - Logged in ....yayy.
+2025-09-09 06:48:54.765547 - Email sent to kavyaa1706@gmail.com.
+2025-09-09 06:48:55.041765 - Disconnected from SMTP server.

@@ -1,0 +1,83 @@
+--- DNS Query for google.com at 2025-09-08 17:19:05.313880 ---
+Resolved IP Address: 142.250.183.174
+
+A Records:
+  142.250.183.174
+
+MX Records:
+  10 smtp.google.com.
+
+CNAME Records:
+  Error retrieving CNAME record: The DNS response does not contain an answer to the question: google.com. IN CNAME
+
+------------------------------------------
+
+--- DNS Query for example.com at 2025-09-08 17:46:32.610152 ---
+Resolved IP Address: 23.215.0.136
+
+A Records:
+  23.215.0.138
+  23.220.75.245
+  23.192.228.80
+  23.215.0.136
+  23.192.228.84
+  23.220.75.232
+
+MX Records:
+  0 .
+
+CNAME Records:
+  Error retrieving CNAME record: The DNS response does not contain an answer to the question: example.com. IN CNAME
+
+------------------------------------------
+
+--- DNS Query for www.google.com at 2025-09-08 17:46:57.138175 ---
+Resolved IP Address: 216.239.38.120
+
+A Records:
+  216.239.38.120
+
+MX Records:
+  Error retrieving MX record: The DNS response does not contain an answer to the question: www.google.com. IN MX
+
+CNAME Records:
+  forcesafesearch.google.com.
+
+------------------------------------------
+
+
+DNS Query for  at 2025-09-09 06:36:04.622399
+Resolved IP Address: 0.0.0.0
+
+A Records:
+  No A records found.
+
+MX Records:
+  No MX records found.
+
+CNAME Records:
+  No CNAME records found.
+
+DNS Query for www.google.com at 2025-09-09 06:36:22.428287
+Resolved IP Address: 216.239.38.120
+
+A Records:
+  216.239.38.120
+
+MX Records:
+  No MX records found.
+
+CNAME Records:
+  forcesafesearch.google.com.
+
+DNS Query for google.com at 2025-09-09 06:38:33.993694
+Resolved IP Address: 142.250.183.110
+
+A Records:
+  142.250.183.110
+
+MX Records:
+  10 smtp.google.com.
+
+CNAME Records:
+  No CNAME records found.
