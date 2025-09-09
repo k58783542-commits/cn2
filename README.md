@@ -28,3 +28,7 @@ socket → to resolve domain → IP.
 dns.resolver (from dnspython) → to query DNS records (A, MX, CNAME).
 
 datetime → to add timestamps in logs.
+
+🔹 For LDAP (ldaptext.py – optional/extra)
+
+ldap3 → to connect & query directory servers (if implemented).
